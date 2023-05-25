@@ -5,5 +5,8 @@ public class Aresta {
         this.b = Vb;
     }
 
+    public Vertice getOutroVertice(){
+        return b;
+    }
 
 }
